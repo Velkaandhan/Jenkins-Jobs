@@ -1,0 +1,3 @@
+[submodule "jenkins-jobs"]
+	path = jenkins-jobs
+	url = https://github.com/Velkaandhan/Jenkins-Jobs.git
